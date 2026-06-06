@@ -372,10 +372,10 @@ Create a new Google Sheet and open the Apps Script editor from the Extensions me
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ecotag.git
+git clone https://github.com/AGTechathon-2-0/ReView.git
 
 # Navigate to the app directory
-cd ecotag/app
+cd ReView/app
 
 # Install dependencies
 npm install
