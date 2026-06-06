@@ -1,0 +1,6 @@
+{
+  "name": "EcoTag",
+  "description": "Local-first environmental monitoring using Wemos D1 hardware, tracking IAQ, temperature, UV and more with Google Sheets sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
